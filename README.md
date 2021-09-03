@@ -1,2 +1,2 @@
 # calculator-typescript
-Learning Typescript basic calculator with tsc
+Four basic operations in this calculator
